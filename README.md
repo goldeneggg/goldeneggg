@@ -1,4 +1,4 @@
-- <img src="/img/resume-icon.png" align="center" width="20x" />　__[My Resume is here](https://gist.github.com/goldeneggg/7bf0324258e67cff9ed575119cca7a46)__
+- <img src="/img/resume-icon.png" align="center" width="20x" />　__[My Resume is here](https://gist.github.com/goldeneggg/d22d14dd60c6aa04c354861bb5ee1b26)__
 - <img src="/img/p-web.svg" align="center" width="20x" />　Web and Software Development (mainly on the backend)
   - `{"favorite": "Go", "interests": ["Zig", "WebAssembly"]}`
 - <img src="/img/p-aws.svg" align="center" width="20x" />　AWS Solution Architect (especially DevOps, Serverless and Container Tech)
